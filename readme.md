@@ -54,10 +54,10 @@ Refer : [Data and Tool Integrations](https://community.ibm.com/community/user/ai
 This section explains about following as part of the demo setup of Watson AIOps with Instana and iLender App.
 
 - Application Management
-    <img src="images/app-management.png">
+<img src="images/app-management.png">
 - AI-Model Management
 - Training
-    <img src="images/training.png">
+<img src="images/training.png">
 
 Refer : [App and AI Model Management and Training](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-4-app-aimodel-training)
 
