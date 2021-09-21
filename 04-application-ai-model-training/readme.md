@@ -36,15 +36,15 @@ This section explains about training definition to be created for Logs, Events a
 
 ### 2.1 Create Training Definition for Log Anomaly
 
-For detailed explanation refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/10-create-training-definition-log-anomaly
+Refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/10-create-training-definition-log-anomaly
 
 ### 2.2 Create Training Definition for Event Grouping
 
-For detailed explanation refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/11-create-training-definition-event-grouping
+Refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/11-create-training-definition-event-grouping
 
 ### 2.3 Create Training Definition for Similar Incidents
 
-For detailed explanation refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/12-create-training-definition-incidents
+Refer https://github.com/ibm-gsi-ecosystem/watson-ai-ops-310-guide/tree/main/320-aiops-ai-model-management/12-create-training-definition-incidents
 
 ## 3. Training
 

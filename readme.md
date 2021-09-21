@@ -65,7 +65,7 @@ Refer : [App and AI Model Management and Training](https://community.ibm.com/com
 
 ## Inferencing
 
-This section explains about Inducing error in the iLender Application (memory high issue in CreditScore Service), get alert from Instana, log anomaly from Humio through AIManager and view the slack story and servicenow incident.
+This section explains about Inducing error in the iLender Application (memory high issue in CreditScore Service), get alert from Instana, log anomaly AIManager through Humio and view the slack story and servicenow incident.
 
 <img src="images/inferencing.png">
 

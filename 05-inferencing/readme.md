@@ -1,4 +1,4 @@
-# WAIOps Demo with Instana and iLender App : 7 - Inferencing
+# WAIOps Demo with Instana and iLender App : 5 - Inferencing
 
 This article explains about Inferencing Steps required as part of the Watson AIOps demo setup with Instana and iLender App.
 
