@@ -9,7 +9,7 @@ The article is based on the the following.
 
 ## 1. Deploy iLender App
 
-Deploy iLender application in Kubernetes Cluster using the steps below. [here](./deploy-app).
+Deploy iLender application in Kubernetes Cluster using the steps below.
 
 ### 1.1 Update Humio properties
 
