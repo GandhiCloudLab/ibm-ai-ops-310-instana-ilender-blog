@@ -55,7 +55,9 @@ This section explains about following as part of the demo setup of Watson AIOps 
 
 - Application Management
 <img src="images/app-management.png">
+
 - AI-Model Management
+
 - Training
 <img src="images/training.png">
 
@@ -65,10 +67,13 @@ Refer : [App and AI Model Management and Training](https://community.ibm.com/com
 
 This section explains about Inducing error in the iLender Application (memory high issue in CreditScore Service), get alert from Instana, log anomaly from Humio through AIManager and view the slack story and servicenow incident.
 
+<img src="images/inferencing.png">
+
+
 Refer : [Inferencing](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-5-inferencing)
 
 
-## Navigation
+### Navigation
 
 Next: [Initial Configuration](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-2-initial-configuration)
 
