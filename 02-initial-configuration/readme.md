@@ -1,6 +1,6 @@
 # WAIOps Demo with Instana and iLender App : 2 - Initial Configuration
 
-This article explains about Initial Configuration required to do the demo setup of Watson AIOps with Instana and iLender App.
+This article explains about Initial Configuration required to do the Watson AIOps demo setup with Instana and iLender App.
 
 The article is based on the the following.
 

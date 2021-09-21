@@ -1,6 +1,6 @@
 # WAIOps Demo with Instana and iLender App : 3 - Data and Tool Integrations
 
-This article explains about integrations of the below tools with Watson AIOps for the demo setup of Watson AIOps with Instana and iLender App.
+This article explains about integrations of the below tools with Watson AIOps for the Watson AIOps demo setup with Instana and iLender App.
 
 - Humio (log)
 - Kafka (Event Manager)

@@ -1,6 +1,6 @@
 # WAIOps Demo with Instana and iLender App : 7 - Inferencing
 
-This article explains about Inferencing Steps required as part of the demo setup of Watson AIOps with Instana and iLender App.
+This article explains about Inferencing Steps required as part of the Watson AIOps demo setup with Instana and iLender App.
 
 - Generate load on the iLender App to simulate memory high issue in CreditScore Service
 - Instana generates alerts and send to Event Manager as an event

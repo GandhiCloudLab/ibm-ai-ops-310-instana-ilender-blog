@@ -1,6 +1,6 @@
 # WAIOps Demo with Instana and iLender App : 4 - Application and AI-Model Management and Training
 
-This article explains about following as part of the demo setup of Watson AIOps with Instana and iLender App.
+This article explains about following as part of the Watson AIOps demo setup with Instana and iLender App.
 
 - Application Management
 - AI-Model Management 
