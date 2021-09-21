@@ -7,7 +7,7 @@ The article is based on the the following.
 - RedHat OpenShift 4.6.x / 4.7.x on IBM Cloud (ROKS)
 - Watson AIOps 3.1.x
 
-# Overview
+## Overview
 
 iLender is a Microservices based Loan processing application used by a FinTech company. This application is deployed in a kubernetes environment. 
 
@@ -29,11 +29,11 @@ Here are steps to be done for this demo setup.
 - Induce error in the iLender Application (memory high issue in CreditScore Service) and view the slack story and servicenow incident.
 
 
-# Initial Configuration
+## Initial Configuration
 
 This section explains about the Initial Configuration or tools installation required to do the demo setup. This section also explains about how to install the iLender application.
 
-[Refer : 02-initial-configuration](02-initial-configuration)
+Refer : [Initial Configuration](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-2-initial-configuration)
 
 ## Data and tool integrations
 
@@ -44,39 +44,28 @@ This section explains about the below tools integrations with Watson AIOps.
 - ServiceNow (Incidents)
 - Slack (Story)
 
-[Refer : 03-data-and-tool-integrations](03-data-and-tool-integrations)
+Refer : [Data and Tool Integrations](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-3-data-tool-integration)
 
 <img src="images/integration.png">
 
 
-## Application Management
+## Application and AI-Model Management and Training
 
-This section explains about observing iLender application topology through kubernetes observer and how to create application in Watson AIOps.
+This section explains about following as part of the demo setup of Watson AIOps with Instana and iLender App.
 
-[Refer : 04-application-management](04-application-management)
-<img src="images/app-management.png">
+- Application Management
+    <img src="images/app-management.png">
+- AI-Model Management
+- Training
+    <img src="images/training.png">
 
-
-## AI Model management
-
-This section explains about how to create ai-model management for Logs, Events and Similar incidents.
-
-[Refer : 05-ai-model-management](05-ai-model-management)
-
-## Training
-
-This section explains about how to do training for Logs, Events and Similar incidents.
-
-[Refer : 06-training](06-training)
-<img src="images/training.png">
-
+Refer : [App and AI Model Management and Training](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-4-app-aimodel-training)
 
 ## Inferencing
 
 This section explains about Inducing error in the iLender Application (memory high issue in CreditScore Service), get alert from Instana, log anomaly from Humio through AIManager and view the slack story and servicenow incident.
 
-[Refer : 07-inferencing](07-inferencing)
-<img src="images/inferencing.png">
+Refer : [Inferencing](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-5-inferencing)
 
 
 ## Navigation
